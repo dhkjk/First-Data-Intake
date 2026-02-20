@@ -15,7 +15,7 @@ The goal of the project was to intake and clean up the data to store only the li
 | Yelp        | yelp_academic_dataset_business.json |
 
 ### Architecture
-![Architecture](images/First Data Intake.png)
+![Architecture](images/First-Data-Intake-Architecture.png)
 *Figure 1*
 
 

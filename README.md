@@ -1,4 +1,4 @@
-# Restaurant Data Intake
+# Restaurant List Data Pipeline
 
 ## Introduction
 First project to practice data intake from multiple data sources using Docker Containers and a remote Spark server.
